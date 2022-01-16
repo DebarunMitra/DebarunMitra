@@ -1,4 +1,4 @@
-# <center>Hi there, I'm Debarun 👋</center>
+# <p align="center">Hi there, I'm Debarun 👋</p>
 
 
 <!-- **DebarunMitra/DebarunMitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -20,14 +20,16 @@
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </p>
 
-<center>
+<p align="center">
 
 ![image](https://github-readme-stats.vercel.app/api?username=DebarunMitra)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DebarunMitra)
 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=DebarunMitra)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebarunMitra" alt="streak-stats"/>
+<!-- ![image]() -->
 
-![image](https://activity-graph.herokuapp.com/graph?username=DebarunMitra&theme=minimal)
+<img src="https://activity-graph.herokuapp.com/graph?username=DebarunMitra&theme=minimal" alt="github-graph"/>
 
-</center>
+</p>
+

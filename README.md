@@ -1,16 +1,33 @@
-### Hi there 👋
+# <center>Hi there, I'm Debarun 👋</center>
 
-<!--
-**DebarunMitra/DebarunMitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **DebarunMitra/DebarunMitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### About Me:
+
+- 🔭 I’m a passionate fullstack developer 👨‍💻
+- 🌱 I’m currently learning blockchain technology
+- 👯 I like to collaborate & work with teams
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ⚡ Fun fact: ...
+- 📫 How to reach me: debarun96mitra@gmail.com
+
+
+### 🚀 Languages and Tools:
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</p>
+
+<center>
+
+![image](https://github-readme-stats.vercel.app/api?username=DebarunMitra)
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DebarunMitra)
+
+![image](https://github-readme-streak-stats.herokuapp.com/?user=DebarunMitra)
+
+![image](https://activity-graph.herokuapp.com/graph?username=DebarunMitra&theme=minimal)
+
+</center>

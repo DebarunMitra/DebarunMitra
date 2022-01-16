@@ -3,13 +3,15 @@
 
 <!-- **DebarunMitra/DebarunMitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### About Me:
+### 🙋‍♂️ About Me:
 
 - 🔭 I’m a passionate fullstack developer 👨‍💻
+  
 - 🌱 I’m currently learning blockchain technology
+  
 - 👯 I like to collaborate & work with teams
-- 💬 Ask me about ...
--  ⚡ Fun fact: ...
+<!-- - 💬 Ask me about ...
+-  ⚡ Fun fact: ... -->
 - 📫 How to reach me: debarun96mitra@gmail.com
 
 
@@ -32,6 +34,8 @@
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 </p>
+
+### 📊 Github Stats:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DebarunMitra" alt="stats-api"/>

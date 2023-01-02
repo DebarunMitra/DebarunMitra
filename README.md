@@ -44,7 +44,6 @@
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebarunMitra" alt="streak-stats"/>
 </br>
-<img src="https://activity-graph.herokuapp.com/graph?username=DebarunMitra&theme=minimal" alt="github-graph"/>
-
+![Visitor Count](https://profile-counter.glitch.me/DebarunMitra/count.svg)
 </p>
 

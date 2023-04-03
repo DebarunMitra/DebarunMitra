@@ -7,7 +7,7 @@
 
 - 🔭 I’m a passionate fullstack developer 👨‍💻
   
-- 🌱 I’m currently exploring IOT technology
+- 🌱 I’m currently exploring Gaming With JavaScript
   
 - 👯 I like to collaborate & work with teams
 <!-- - 💬 Ask me about ...

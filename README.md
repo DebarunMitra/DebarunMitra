@@ -22,6 +22,7 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://testing-library.com/img/octopus-64x64.png" alt="react-testing-library" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
